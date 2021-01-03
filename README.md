@@ -48,7 +48,7 @@ We use various method to find variables which are really healful in model buildi
 a. use recursive feature elimination or lasso regression library for fueature selection.
 split training and testing data into dependent and independent variables
 # Model building
-used ordanary least square method and linear regression for model building
+used ordinary least square method and linear regression for model building
 # Accuracy and Perfornace of Model:
 Find predicted value of model
 r2score is used to to meassure accracy.
