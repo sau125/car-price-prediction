@@ -49,3 +49,7 @@ a. use recursive feature elimination or lasso regression library for fueature se
 split training and testing data into dependent and independent variables
 # Model building
 used ordanary least square method and linear regression for model building
+# Accuracy and Perfornace of Model:
+Find predicted value of model
+r2score is used to to meassure accracy.
+check p value that should be less than 0.05.
