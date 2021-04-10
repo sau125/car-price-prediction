@@ -37,7 +37,7 @@ a. Missing Value
 b. Numerical variables
 c. Categorical variables
 d. Relationship between dependent and independent variables
-# Feature engineering
+# Feature selection
 a. Checking mutlicollinearity relation between variables and finding missing value too
 b. Adding constant column in data
 c. Feature scaling
